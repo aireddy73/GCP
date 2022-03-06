@@ -25,7 +25,7 @@ Google Cloud Associate Engineer repository on my journey to becoming a cloud exp
 
 ![alt text](images/GCP-ACE-5.png)
 
-# Links:
+## Reference Links:
 
 
 
@@ -51,4 +51,5 @@ https://cloud.google.com/certification/guides/cloud-engineer
 * Compare GCP with AWS solutions  
 https://cloud.google.com/docs/compare/aws
 
+* Satish VJ GitHub 
 https://github.com/sathishvj/awesome-gcp-certifications
