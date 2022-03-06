@@ -20,9 +20,9 @@ Google Cloud Associate Engineer repository on my journey to becoming a cloud exp
 
 ![alt text](images/GCP-ACE-3.png)
 
-![alt text](images/GCP-ACE-8.png)
+![alt text](images/GCP-ACE-4.png)
 
-![alt text](images/GCP-ACE-9.png)
+![alt text](images/GCP-ACE-5.png)
 
 # Links:
 
