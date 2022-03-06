@@ -20,8 +20,6 @@ Google Cloud Associate Engineer repository on my journey to becoming a cloud exp
 
 ![alt text](images/GCP-ACE-3.png)
 
-
-
 ![alt text](images/GCP-ACE-8.png)
 
 ![alt text](images/GCP-ACE-9.png)
@@ -43,6 +41,8 @@ https://cloud.google.com/certification
 
 * Associate Cloud Engineer Exam  
 https://cloud.google.com/certification/cloud-engineer
+
+* Cloud Engineer 
 https://cloud.google.com/certification/guides/cloud-engineer
 
 * Compare GCP with AWS solutions  
