@@ -20,47 +20,23 @@ Google Cloud Associate Engineer repository on my journey to becoming a cloud exp
 
 ![alt text](images/GCP-ACE-3.png)
 
-![alt text](images/GCP-ACE-0.png)
 
-![alt text](images/GCP-ACE-4.png)
-
-![alt text](images/GCP-ACE-5.png)
-
-![alt text](images/GCP-ACE-6.png)
-
-![alt text](images/GCP-ACE-7.png)
 
 ![alt text](images/GCP-ACE-8.png)
 
 ![alt text](images/GCP-ACE-9.png)
 
 # Links:
-* My Associate Cloud Engineer Certificate  
-https://www.credential.net/a9aac670-af5b-4967-b590-42e6236c705b
 
-* My Google Cloud certified professional directory  
-https://googlecloudcertified.credential.net/profile/62a6aee1f0d9a726db8351cf405e5abee8cc66cb
 
-* My Qwiklabs Profile  
-https://www.qwiklabs.com/public_profiles/06725ac8-414e-4877-9499-7f71cd78b515
-
-* My Associate Cloud GitHub Repository  
-https://github.com/georgezoto/Google-Cloud-Platform-Associate-Cloud-Engineer
-
-* Architecting with Google Compute Engine Specialization  
-https://www.coursera.org/specializations/gcp-architecture
-* Certificate  
-https://www.coursera.org/account/accomplishments/specialization/certificate/7KH5GYAXMVZK
 
 * Cloud Engineering with Google Cloud Professional Certificate  
 https://www.coursera.org/professional-certificates/cloud-engineering-gcp
-* Certificate  
-https://www.coursera.org/account/accomplishments/specialization/certificate/9WRQS3YMYUQK
 
 * Preparing for the Google Cloud Associate Cloud Engineer Exam  
 https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam
-* Certificate  
-https://www.coursera.org/account/accomplishments/certificate/BJ4ZBWMHRQJN
+
+
 
 * Google Cloud certifications  
 https://cloud.google.com/certification
