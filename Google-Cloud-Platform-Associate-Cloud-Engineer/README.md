@@ -42,8 +42,10 @@ https://cloud.google.com/certification
 * Associate Cloud Engineer Exam  
 https://cloud.google.com/certification/cloud-engineer
 
-* Cloud Engineer 
+* Cloud Engineer Exam  
 https://cloud.google.com/certification/guides/cloud-engineer
+
+
 
 * Compare GCP with AWS solutions  
 https://cloud.google.com/docs/compare/aws
