@@ -51,7 +51,9 @@ https://cloud.google.com/certification/guides/cloud-engineer
 * Compare GCP with AWS solutions  
 https://cloud.google.com/docs/compare/aws
 
-* Satish VJ GitHub 
+* Satish VJ GitHub   
 https://github.com/sathishvj/awesome-gcp-certifications
+
+
 
 
